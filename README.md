@@ -20,6 +20,24 @@ My hope is that eventually this main list might become a large community supplem
 
 ## 2. How Do I Join The Webring?
 
+This sounds complicated but I assure you it is not!
+
+First you will need to add your details to the *philosophy-webring-data.json* file. 
+
+To do this, you will need to:
+
+1. 'Fork' (i.e., make a copy of) the file on your Github account, where you can freely edit the file. 
+2. Add your details *to the bottom* of the .json file using the established template.
+
+   Specifically, the Webring requires:
+    a. A name for your website. (e.g., Mr Whiskers' Feline Philosophy)
+    b. A URL. (e.g., https:/  Whiskers - Philosophy . com)
+    c. Your name. (e.g., Dr Archibald Whiskers)
+3. Once you have done this, save it and send it to us by making a 'pull request'. The option should appear when during this process.
+4. Then wait for me to check the request is correctly formatted and I can approve it! Just like that, you're on the coolest list in town. 
+
+## 3. How Can I Proudly Display My Membership?
+
 The question of all questions, and I'm glad you asked. 
 
 In this repository you will find 2 html files. One is titled *Webring-HTML.html* and one is titled Webring-Script.html.
@@ -39,7 +57,7 @@ Sixth, copy and paste the block provided in webring-CSS.css somewhere in your st
 Seventh, enjoy your new home in the Academic Philosophy Webring! (or mess about with the HTML/CSS/JS until it behaves...)
 
 
-## 3. A Note on the Code
+## 4. A Note on the Code
 ### Credit Where Credit is Due
 Though my HTML and CSS have been improving over this year, my JS leaves a lot to be desired. Fortunately for me, and for other philosophers similarly inclined, Chris Coyier at CSS-Tricks developed a [tutorial](https://css-tricks.com/how-you-might-build-a-modern-day-webring/) and helpful code template for a modern Webring! Thanks Chris. 
 
