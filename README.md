@@ -4,17 +4,20 @@ This repository serves as a host for files relating to The Academic Philosophy W
 ## 1. Why a Webring in 2026!?
 I have a lot to say about this, and in time I will include some more information here, and on my website also. Until then, it suffices to say that the webring can function as a handy way of linking together our academic websites, and it helps to create a network for folks (like myself) who do not use smart devices and who rarely use 'traditional' forms of social media (i.e., apps like BlueSky or LinkedIn or X) but who are active on their websites.
 
-When I get to writing more about the Webring and my aim for it, it will be available [https://megandrury-philosophy.neocities.org](here) (currently (as of 07/07/26) this redirects to my homepage). 
+When I get to writing more about the Webring and my aim for it, it will be available [here](https://megandrury-philosophy.neocities.org) (currently (as of 07/07/26) this redirects to my homepage). 
 
 **Does this mean you have to be a Luddite to join the list?**
+
 Absolutely not. I hope that the Webring pulls together academic philosophers who use social media and who don't!
 
 **I work in <insert (sub)field here, can I join the list?**
+
 Absolutely! If it's in philosophy, or philosophy-adjacent, submit a request to add your website to the Webring. This is a *general academic philosophy* webring.
 
 My hope is that eventually this main list might become a large community supplemented by sub webrings, such as 'The Philosophical Ethics Webring' or 'The Feminist Epistemology Webring'. 
 
 ## 2. How Do I Join The Webring?
+
 The question of all questions, and I'm glad you asked. 
 
 In this repository you will find 2 html files. One is titled *PhilosophyWebringHTML.html* and one is titled PhilosophyWebringScript.html.
