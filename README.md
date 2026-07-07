@@ -1,5 +1,5 @@
 # The Academic Philosophy Webring
-This repository serves as a host for files relating to The UK Philosophy Webring. Submit a Pull Request to be added (or removed!) from the Webring.
+This repository serves as a host for files relating to The Academic Philosophy Webring. Submit a Pull Request to be added (or removed!) from the Webring.
 
 ## 1. Why a Webring in 2026!?
 I have a lot to say about this, and in time I will include some more information here, and on my website also. Until then, it suffices to say that the webring can function as a handy way of linking together our academic websites, and it helps to create a network for folks (like myself) who do not use smart devices and who rarely use 'traditional' forms of social media (i.e., apps like BlueSky or LinkedIn or X) but who are active on their websites.
