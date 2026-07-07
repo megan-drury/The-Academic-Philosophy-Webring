@@ -1,6 +1,8 @@
 # The Academic Philosophy Webring
 This repository serves as a host for files relating to The Academic Philosophy Webring. Submit a Pull Request to be added (or removed!) from the Webring.
 
+<img width="443" height="442" alt="Screenshot 2026-07-07 at 20 32 35" src="https://github.com/user-attachments/assets/4d1a9648-83f5-4e3d-8eff-94d7a2cb19d9" />
+
 ## 1. Why a Webring in 2026!?
 I have a lot to say about this, and in time I will include some more information here, and on my website also. Until then, it suffices to say that the webring can function as a handy way of linking together our academic websites, and it helps to create a network for folks (like myself) who do not use smart devices and who rarely use 'traditional' forms of social media (i.e., apps like BlueSky or LinkedIn or X) but who are active on their websites.
 
@@ -30,9 +32,11 @@ Third, open Webring-HTML.html and copy (cmd-C or ctrl-C) everything between and 
 
 Fourth, paste (cmd-V or ctrl-V) this <script> block into your HTML file (e.g., /index.html) wherever you would like the Webring 'widget'/'component' to appear. 
 
-Fifth, remember to change 'YOUR URL HERE' to your website, (e.g. *https:// philosophy-of-cats . phil . org*).
+Fifth, remember to change 'YOUR URL HERE' to your website, (e.g. *https:// philosophy-of-cats . phil . org*) exactly as you entered it into the Philosophy-Webring-Data.json or nothing will happen!
 
-Sixth, enjoy your new home in the Academic Philosophy Webring! (or mess about with the HTML/CSS/JS until it behaves...)
+Sixth, copy and paste the block provided in webring-CSS.css somewhere in your style.css file (or whatever you named your CSS file).
+
+Seventh, enjoy your new home in the Academic Philosophy Webring! (or mess about with the HTML/CSS/JS until it behaves...)
 
 
 ## 3. A Note on the Code
