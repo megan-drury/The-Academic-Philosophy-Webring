@@ -20,13 +20,13 @@ My hope is that eventually this main list might become a large community supplem
 
 The question of all questions, and I'm glad you asked. 
 
-In this repository you will find 2 html files. One is titled *PhilosophyWebringHTML.html* and one is titled PhilosophyWebringScript.html.
+In this repository you will find 2 html files. One is titled *Webring-HTML.html* and one is titled Webring-Script.html.
 
-First, open PhilosophyWebringScript.html and copy (cmd-C or ctrl-C) everything between and including the element tags, <script> and </script>. 
+First, open Webring-Script.html and copy (cmd-C or ctrl-C) everything between and including the element tags, <script> and </script>. 
 
 Second, paste (cmd-V or ctrl-V) this <script> block into your HTML file (e.g., /index.html) toward the bottom of your file (above </body> is good). 
 
-Third, open PhilosophyWebringHTML.html and copy (cmd-C or ctrl-C) everything between and including the element tags, <philosophy-webring></philosophy-webring>. 
+Third, open Webring-HTML.html and copy (cmd-C or ctrl-C) everything between and including the element tags, <philosophy-webring></philosophy-webring>. 
 
 Fourth, paste (cmd-V or ctrl-V) this <script> block into your HTML file (e.g., /index.html) wherever you would like the Webring 'widget'/'component' to appear. 
 
