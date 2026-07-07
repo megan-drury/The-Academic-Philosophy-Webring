@@ -6,11 +6,11 @@ I have a lot to say about this, and in time I will include some more information
 
 When I get to writing more about the Webring and my aim for it, it will be available [here](https://megandrury-philosophy.neocities.org) (currently (as of 07/07/26) this redirects to my homepage). 
 
-**Does this mean you have to be a Luddite to join the list?**
+### Does this mean you have to be a Luddite to join the list?
 
 Absolutely not. I hope that the Webring pulls together academic philosophers who use social media and who don't!
 
-**I work in <insert (sub)field here, can I join the list?**
+### I work in <insert (sub)field> here, can I join the list?
 
 Absolutely! If it's in philosophy, or philosophy-adjacent, submit a request to add your website to the Webring. This is a *general academic philosophy* webring.
 
