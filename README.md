@@ -4,7 +4,7 @@ This repository serves as a host for files relating to The UK Philosophy Webring
 ## 1. Why a Webring in 2026!?
 I have a lot to say about this, and in time I will include some more information here, and on my website also. Until then, it suffices to say that the webring can function as a handy way of linking together our academic websites, and it helps to create a network for folks (like myself) who do not use smart devices and who rarely use 'traditional' forms of social media (i.e., apps like BlueSky or LinkedIn or X) but who are active on their websites.
 
-When I get to writing more about the Webring and my aim for it, it will be available [[https:megandrury-philosophy.neocities.org|here]] (currently (as of 07/07/26) this redirects to my homepage). 
+When I get to writing more about the Webring and my aim for it, it will be available [https://megandrury-philosophy.neocities.org](here) (currently (as of 07/07/26) this redirects to my homepage). 
 
 **Does this mean you have to be a Luddite to join the list?**
 Absolutely not. I hope that the Webring pulls together academic philosophers who use social media and who don't!
@@ -34,9 +34,9 @@ Sixth, enjoy your new home in the Academic Philosophy Webring! (or mess about wi
 
 ## 3. A Note on the Code
 ### Credit Where Credit is Due
-Though my HTML and CSS have been improving over this year, my JS leaves a lot to be desired. Fortunately for me, and for other philosophers similarly inclined, Chris Coyier at CSS-Tricks developed a tutorial and helpful code template for a modern Webring! Thanks Chris. 
+Though my HTML and CSS have been improving over this year, my JS leaves a lot to be desired. Fortunately for me, and for other philosophers similarly inclined, Chris Coyier at CSS-Tricks developed a [tutorial](https://css-tricks.com/how-you-might-build-a-modern-day-webring/) and helpful code template for a modern Webring! Thanks Chris. 
 
-I would have forked Chris' repository for direct credit, but I'm new to Github and was worried about accidentally pushing changes, so thought it safer to create a separate repo, just in case!
+I would have forked [Chris' repository](https://github.com/CSS-Tricks/css-webring/tree/main) for direct credit, but I'm new to Github and was worried about accidentally pushing changes, so thought it safer to create a separate repo, just in case!
 
 ### My Code...
 Aspects of my additions to the code are inefficient, but I will be tidying it up in good time. (Likely if this project happens to gain traction). 
