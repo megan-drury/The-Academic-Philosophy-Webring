@@ -8,6 +8,10 @@ I have a lot to say about this, and in time I will include some more information
 
 When I get to writing more about the Webring and my aim for it, it will be available [here](https://megandrury-philosophy.neocities.org) (currently (as of 07/07/26) this redirects to my homepage). 
 
+### Megan, Back Up A Second... What Even is a Webring?
+
+Good question! Before search engines like Google and ... well, Google ... became adept at indexing sites and returning ranked results given key words folks on the Web linked together their websites on a webring kind of like tram stops on a route. If you liked the website you had happened to stumble across, you could click through their webring to find other websites that were similarly matched to a theme or topic. This aided 'discovery' before the advent of collected 'News Feeds', timelines, and the like. Webrings largely began to die out around the mid-2000s because, like most things on the Web, the main Webring tool, Webring.org, was bought by Yahoo and eventually discontinued. 
+
 ### Does this mean you have to be a Luddite to join the list?
 
 Absolutely not. I hope that the Webring pulls together academic philosophers who use social media and who don't!
