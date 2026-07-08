@@ -14,7 +14,7 @@ Absolutely not. I hope that the Webring pulls together academic philosophers who
 
 ### I work in <insert (sub)field> here, can I join the list?
 
-Absolutely! If it's in philosophy, or philosophy-adjacent, submit a request to add your website to the Webring. This is a *general academic philosophy* webring.
+Absolutely! If it's in philosophy, or a philosophy-adjacent field (think STS, critical <blank> studies, etc.), submit a request to add your website to the Webring. This is a *general academic philosophy* webring.
 
 My hope is that eventually this main list might become a large community supplemented by sub webrings, such as 'The Philosophical Ethics Webring' or 'The Feminist Epistemology Webring'. 
 
