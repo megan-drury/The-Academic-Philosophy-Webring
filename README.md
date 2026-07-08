@@ -40,7 +40,7 @@ To do this, you will need to:
 
 The question of all questions, and I'm glad you asked. 
 
-In this repository you will find 2 html files. One is titled *Webring-HTML.html* and one is titled Webring-Script.html.
+In this repository you will find 2 html files and 1 CSS file. One is titled *Webring-HTML.html*, one is titled Webring-Script.html, and the other Webring-CSS.css.
 
 First, open Webring-Script.html and copy (cmd-C or ctrl-C) everything between and including the element tags, <script> and </script>. 
 
@@ -48,9 +48,9 @@ Second, paste (cmd-V or ctrl-V) this <script> block into your HTML file (e.g., /
 
 Third, open Webring-HTML.html and copy (cmd-C or ctrl-C) everything between and including the element tags, <philosophy-webring></philosophy-webring>. 
 
-Fourth, paste (cmd-V or ctrl-V) this <script> block into your HTML file (e.g., /index.html) wherever you would like the Webring 'widget'/'component' to appear. 
+Fourth, paste (cmd-V or ctrl-V) this <philosophy-webring> block into your HTML file (e.g., /index.html) wherever you would like the Webring 'widget'/'component' to appear. 
 
-Fifth, remember to change 'YOUR URL HERE' to your website, (e.g. *https:// philosophy-of-cats . phil . org*) exactly as you entered it into the Philosophy-Webring-Data.json or nothing will happen!
+Fifth, remember to change 'YOUR URL HERE' to your website, (e.g. *https:// philosophy-of-cats . phil . org*) exactly as you entered it into the Philosophy-Webring-Data.json in Step 3 above or nothing will happen!
 
 Sixth, copy and paste the block provided in webring-CSS.css somewhere in your style.css file (or whatever you named your CSS file).
 
